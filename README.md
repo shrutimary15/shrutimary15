@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shruti Mary Mathew</h1>
 <h3 align="center">Machine Learning Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutimary15&label=Profile%20views&color=0e75b6&style=flat" alt="shrutimary15" /> </p>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 📝 I regularly write articles on [Medium.](https://medium.com/@shanshru15)
 - - 📫 How to reach me **shrutimary@rediffmail.com**
