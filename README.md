@@ -7,9 +7,9 @@
 - 📫 Contact me on **shrutimary@rediffmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+
 - [The OpenCV](https://medium.com/@shanshru15/the-opencv-6c4dd137f240) 
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
